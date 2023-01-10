@@ -25,8 +25,7 @@ Exponential function: f(x) = 2^x
 # Limitations
 The finite difference method is a simple and general method for approximating derivatives, but it can be less accurate for functions with rapid changes or for values of the derivative that are far from the center point. The step size h used in the approximation can be adjusted to improve the accuracy, but a smaller step size will increase the computation time.
 
-# Credits
-This app was developed by OpenAI.
+
 
 
 
